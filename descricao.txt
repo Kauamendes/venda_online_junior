@@ -1,0 +1,11 @@
+Estilização: Pensamos em Bootstrap
+
+Pagina principal:
+- Barra de cima com icone de carrinho, de home, contato, eu
+- Imagem do produto + descricao, preco, nome + botão "adicionar"
+
+Pagina de Carrinho:
+- Pagina de carrinho com lista de produtos adicionados, o valor de cada item e total + botão "reservar"
+- Deve ser um side bar
+
+Observação: Quando clicar no botão "adicionar" o item vai para o carrinho, atualizando a lista.
