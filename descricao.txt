@@ -9,5 +9,3 @@ Pagina de Carrinho:
 - Deve ser um side bar
 
 Observação: Quando clicar no botão "adicionar" o item vai para o carrinho, atualizando a lista.
-
-teste
